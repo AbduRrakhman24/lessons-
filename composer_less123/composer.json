@@ -1,0 +1,15 @@
+{
+    "name": "123/lesson",
+    "autoload": {
+        "psr-4": {
+            "123\\Lesson\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AbduRrkhman24",
+            "email": "ahmadov.1999@bk.ru"
+        }
+    ],
+    "require": {}
+}
